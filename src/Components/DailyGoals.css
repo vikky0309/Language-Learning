@@ -1,0 +1,17 @@
+.daily-goals-container {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .goal-input {
+    margin: 10px 0;
+  }
+  
+  .goal-input label {
+    margin-right: 10px;
+  }
+  
+  .goal-input input {
+    padding: 5px;
+  }
+  

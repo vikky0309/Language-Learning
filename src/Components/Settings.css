@@ -1,0 +1,26 @@
+.settings-container {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .setting {
+    margin: 10px 0;
+  }
+  
+  .setting label {
+    margin-right: 10px;
+    .settings-container {
+        text-align: center;
+        margin: 20px;
+      }
+      
+      .setting {
+        margin: 10px 0;
+      }
+      
+      .setting label {
+        margin-right: 10px;
+      }
+      
+  }
+  
